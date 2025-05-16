@@ -1,11 +1,23 @@
 ---
-title: "template"
+title: "Home Page"
 ---
 
-This is a Quarto website.
+# ○○の研究
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## 研究目的
 
-```{r}
-1 + 1
-```
+○○
+
+## 研究期間
+
+2023年4月1日～2024年3月31日
+
+## 研究内容
+
+○○
+
+## データ
+
+○○
+
+## 分析方法
