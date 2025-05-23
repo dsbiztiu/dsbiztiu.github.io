@@ -20,4 +20,13 @@ title: "Home Page"
 
 ○○
 
+```{r}
+d <- read.csv("./data/test.csv")
+d
+```
+
+
 ## 分析方法
+
+
+
